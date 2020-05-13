@@ -1,2 +1,4 @@
 server:
   port: 7001
+config:
+  info: this is 1 version
