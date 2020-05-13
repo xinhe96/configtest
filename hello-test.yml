@@ -1,2 +1,4 @@
 server:
   port: 6001
+config:
+  info: this is 1 version
