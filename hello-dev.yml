@@ -2,3 +2,4 @@ server:
   port: 7001
 config:
   info: this is 2 version
+  pwd: '{cipher}1da37df158abc1381b13e16c14e58939e18a4717489ac747d88507d6edfea908'
